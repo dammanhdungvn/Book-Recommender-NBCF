@@ -31,4 +31,5 @@ npm run build     # build project
 npm run preview   # chạy bản build để kiểm tra bản build
 ```
 
-Link Fe: "https://book-recommender-nbcf.vercel.app/"
+**Link Frontend:** 
+<https://book-recommender-nbcf.vercel.app>
